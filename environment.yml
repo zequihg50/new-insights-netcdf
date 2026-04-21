@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - pyfive
+  - zarr
+  - fsspec
+  - h5py
+  - netcdf4
+  - matplotlib
+  - seaborn
+  - xarray
